@@ -9,7 +9,7 @@ The high level solution architecture includes:
 #### * Power Automate and PowerApps
 #### * PowerBI
 
-<center><img src="images//Architecture.png" width="850"></center>
+<center><img src="images//Architecture.PNG" width="850"></center>
 
 # Prerequisites
 Azure Subscription is required to complete this starter kit. Azure Subscription can be created for free - <https://azure.microsoft.com/en-us/free/>
